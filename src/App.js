@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <MoviesProvider>
       <Nav />
-      <MovieList />
       <AddMovie />
+      <MovieList />
       </MoviesProvider>
     </div>
   );
