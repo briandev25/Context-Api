@@ -1,0 +1,8 @@
+.nav{
+    display:flex;
+    height:80px;
+    background-color:lightgray;
+    align-items:center;
+    justify-content:space-around;
+    border-bottom:1px solid #111;
+}
